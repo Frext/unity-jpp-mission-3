@@ -31,15 +31,17 @@ Want to skip the code and just play?
 
 | Key | Endless Runner City | Balloon On Break |
 | :---: | :--- | :--- |
-| **** |  |  |
+| SPACE | Jump | Move Up |
 
 ---
 
 ## 🎬 Gameplay Preview
 
 ### Endless Runner City
+https://github.com/user-attachments/assets/d34b9b7b-fcb7-4de9-b4bf-3d0002ef0852
 
 ### Balloon On Break
+https://github.com/user-attachments/assets/2ed21878-9b10-449e-b32c-9ef4543d225c
 
 ---
 
@@ -49,13 +51,13 @@ Want to skip the code and just play?
 
 | Start | Gameplay |
 |:---:|:---:|
-| <img src="" width="500" alt="Start"/> | <img src="" width="500" alt="Gameplay"/> |
+| <img src="https://github.com/user-attachments/assets/fe5025d7-7dd3-4e3c-908e-bb0476081d0b" width="500" alt="Start"/> | <img src="https://github.com/user-attachments/assets/9c607553-a33c-49c2-9d4b-3347ecfa0c0d" width="500" alt="Gameplay"/> |
 
 ### Balloon On Break
 
 | Start | Gameplay |
 |:---:|:---:|
-| <img src="" width="500" alt="Start"/> | <img src="" width="500" alt="Gameplay"/> |
+| <img src="https://github.com/user-attachments/assets/c32f6e09-8a41-4534-907e-656dd3eb40cb" width="500" alt="Start"/> | <img src="https://github.com/user-attachments/assets/235f5a3c-5816-461e-9ce6-43c59ec8285b" width="500" alt="Gameplay"/> |
 
 ---
 
