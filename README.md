@@ -31,7 +31,7 @@ Want to skip the code and just play?
 
 | Key | Endless Runner City | Balloon On Break |
 | :---: | :--- | :--- |
-| SPACE | Jump | Move Up |
+| SPACE | Jump | Float Up |
 
 ---
 
@@ -65,7 +65,14 @@ https://github.com/user-attachments/assets/2ed21878-9b10-449e-b32c-9ef4543d225c
 
 ### Endless Runner City
 
+* **Physics-Based Movement & Controls:** Implemented a physics-based single-jump mechanic with ground-checking to prevent double-jumping.
+* **Endless Environment:** Developed a seamlessly repeating background and automated obstacle spawning with automatic off-screen cleanup.
+* **Game State & Effects:** Integrated collision detection that triggers game-over states, synchronizes animations (run/jump/crash), and manages audio-visual effects.
+
 ### Balloon On Break
+
+* **Controls & Boundary Limits:** Implemented upward propulsion via the spacebar, adding constraints to prevent the balloon from floating too high or sinking below the ground.
+* **Game Loop & Spawning:** Programmed a seamlessly repeating background that stops on game over, alongside an automated spawning system for bombs and money.
 
 ---
 
