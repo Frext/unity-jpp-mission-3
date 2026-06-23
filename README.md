@@ -28,7 +28,7 @@ Want to skip the code and just play?
 
 | Key | Endless Runner City | Balloon On Break |
 | :---: | :--- | :--- |
-| SPACE | Jump | Float Up |
+| **SPACE** | Jump | Float Up |
 
 ---
 
