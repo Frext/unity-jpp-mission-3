@@ -19,8 +19,8 @@ Want to skip the code and just play?
 
 1. **[Download the Repository](https://github.com/Frext/unity-jpp-mission-3/archive/refs/heads/main.zip)**
 2. Extract the ZIP file.
-3. To play **Endless Runner City:** Navigate to the `BuildWindows/Endless Runner City` folder and launch **`Endless RNR.exe`**.
-4. To play **Balloon On Break:** Navigate to the `BuildWindows/Balloon On Break` folder and launch **`Endless RNR.exe`**.
+3. To play **Endless Runner City:** Open the `BuildWindows/Endless Runner City` folder and launch **`Endless RNR.exe`**.
+4. To play **Balloon On Break:** Open the `BuildWindows/Balloon On Break` folder and launch **`Endless RNR.exe`**.
 
 ---
 
